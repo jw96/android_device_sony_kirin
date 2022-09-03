@@ -1,0 +1,2 @@
+## LineageOS OTA from Github
+lineage.updater.uri=https://jw96.github.io/LineageOTAstatic/api/v1/{device}_{type}
