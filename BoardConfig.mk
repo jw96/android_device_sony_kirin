@@ -16,7 +16,7 @@
 
 # inherit from common nile-common
 -include device/sony/nile-common/BoardConfigCommon.mk
-
+BUILD_BROKEN_DUP_RULES := true 
 DEVICE_PATH := device/sony/kirin
 
 # HIDL
