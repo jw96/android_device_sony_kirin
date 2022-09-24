@@ -13,6 +13,3 @@ ro.semc.version.sw=1318-6122
 ro.semc.version.sw_revision=53.1.A.3.85
 ro.semc.version.sw_type=user
 ro.semc.version.sw_variant=GLOBALEEA-A1
-
-## LineageOS OTA from Github
-lineage.updater.uri=https://jw96.github.io/LineageOTAstatic/api/v1/{device}_{type}
